@@ -1,5 +1,9 @@
-1. `npm run wpw`
+1. `git clone project-uri`
 
-3. `npm start`
+2. `npm i`
 
-4. 访问：`localhost:3000`
+3. `npm run wpw`
+
+4. `npm start`
+
+5. 访问：`localhost:3000`
